@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: sobre mi
 permalink: /
 subtitle: <a href='https://www.unrc.edu.ar/'>Universidad Nacional de Río Cuarto</a>, Río Cuarto, Argentina.
 
