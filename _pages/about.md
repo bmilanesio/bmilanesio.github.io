@@ -9,8 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Profesora de Matemática</p>
-    <p>Docente en Atica Secundario Orientado, Rio Cuarto, Argentina</p>
+    <p>Profesora de Matemática.</p>
+    <p>Docente en Atica Secundario Orientado, Rio Cuarto, Argentina.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
