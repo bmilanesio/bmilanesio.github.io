@@ -15,30 +15,29 @@
       institution: Universidad Nacional de Río Cuarto, Argentina
       year: 2018
       description:
-        - Profesorado en Matemáticas con un plan de estudios de 4 años + tesina.
+        - Profesorado de Matemática con un plan de estudios de 4 años + tesina.
 
 - title: Experiencia
   type: time_table
   contents:
     - title: Profesora de Matemática
-      institution: Atica Secundario Orientado, Rio Cuarto, Argentina
+      institution: Atica Secundario Orientado, Río Cuarto, Argentina
       year: 2022
       description:
-        - Docente de nivel medio.
+        - Profesora de Matemática de nivel medio (4to y 5to año).
 
-    - title: Auxiliar Docente
-      institution: Universidad Nacional de Rio Cuarto, Argentina
-      year: 1933
+    - title: Asistente Docente
+      institution: Universidad Nacional de Río Cuarto, Argentina
+      year: 2020-2022
       description:
-        - Auxiliar docente en los cursos ....
+        - Asistente Docente en los cursos Introducción al Álgebra (1946) y Lógica Matemática Elemental (1934). 
 
 - title: Premios
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
+        - Beca de Estímulo a las Vocaciones Científicas 2017 (BECA EVC/CIN) 
 
 - title: Intereses Académicos
   type: nested_list
