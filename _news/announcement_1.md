@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-01 00:00:00-0400
+date: 2022-08-01 00:00:00-0400
 inline: true
 ---
 
-Nuevo cargo docente en el colegio Atica Secundario Orientado!
+Fui admitida para comenzar el Máster Universitario en Didáctica de la Matemática en la [Universidad de Granada](https://www.ugr.es/), España.
