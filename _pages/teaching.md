@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: docencia
+title: Docencia
 description: Información relacionada a mis actividades de docencia.
 nav: true
 nav_order: 1

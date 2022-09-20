@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: investigación
+title: Investigación
 description: publicaciones en orden cronológico inverso.
 years: [2021]
 nav: true

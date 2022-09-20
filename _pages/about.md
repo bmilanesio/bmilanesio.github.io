@@ -1,6 +1,6 @@
 ---
 layout: about
-title: sobre mi
+title: Sobre mi
 permalink: /
 subtitle: <code class="language-plaintext highlighter-rouge">Profesora de Matemática</code>
 
