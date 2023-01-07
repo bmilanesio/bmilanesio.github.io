@@ -10,6 +10,7 @@ nav_order: 1
 ### Nivel Medio
 
 Desde el año 2018 he formado parte de equipos docentes en diferentes colegios secundarios en la región de Río Cuarto, Córdoba, Argentina. En todas las ocasiones me desempeñê como `Profesora de Matemática`, y conté con la oportunidad de dar clases en todos los años correspondientes al ciclo básico y al ciclo orientado.
+Particularmente, en el año 2020 debí impartir algunas explicaciones de manera virtual debido a la crisis sanitaria por Covid-19. En este [link](https://www.youtube.com/channel/UCNGtxd7tVpHwkB8xwH5xz4w) pueden encontrar mi canal de Youtube.
 
 ### Nivel Universitario
 
