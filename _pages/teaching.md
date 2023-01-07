@@ -9,12 +9,12 @@ nav_order: 1
 
 ### Nivel Medio
 
-Desde el año 2018 he formado parte de equipos docentes en diferentes colegios secundarios en la región de Río Cuarto, Córdoba, Argentina. En todas las ocasiones me desempeñê como `Profesora de Matemática`, y conté con la oportunidad de dar clases en todos los años correspondientes al ciclo básico y al ciclo orientado.
-Particularmente, en el año 2020 debí impartir algunas explicaciones de manera virtual debido a la crisis sanitaria por Covid-19. En este [link](https://www.youtube.com/channel/UCNGtxd7tVpHwkB8xwH5xz4w) las pueden descargar de mi canal de Youtube.
+Desde el año 2018 me desempeñé como `Profesora de Matemática` en diferentes colegios secundarios en la región de Río Cuarto, Argentina. En todas las ocasiones conté con la oportunidad de dar clases desde 1ero hasta 6to año.
+Particularmente, en el año 2020, debido a la crisis sanitaria por Covid-19, impartí algunas explicaciones de manera virtual. En mi [canal](https://www.youtube.com/channel/UCNGtxd7tVpHwkB8xwH5xz4w) de YouTube pueden ver algunas de ellas.
 
 ### Nivel Universitario
 
-Desde el año 2020 hasta el año 2022 trabajé como `Asistente Docente` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñe como docente en dos asignaturas:
+Desde el año 2020 hasta el año 2022 trabajé como `Asistente Docente` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñé como docente en dos asignaturas:
   - Introducción al Álgebra (1946)
   - Lógica Matemática Elemental (1934)
 
