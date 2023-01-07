@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Soy Profesora de Matemática, recibida en la [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar/), Córdoba, Argentina. Actualmente, me encuentro realizando la tesis de la Especialidad en Didáctica de la Matemática en la Universidad Nacional de Río Cuarto, Argentina y cursando la Maestría en Didáctica de la Matemática en la [Universidad de Granada] (https://www.ugr.es/), España.
+Soy Profesora de Matemática, recibida en la [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar/), Córdoba, Argentina. Actualmente, me encuentro realizando la tesis de la Especialidad en Didáctica de la Matemática de la Universidad Nacional de Río Cuarto y cursando la Maestría en Didáctica de la Matemática en la [Universidad de Granada](https://www.ugr.es/), España.
 
 Durante mi carrera, además de ejercer docencia tanto en nivel medio (secundario) como en nivel superior (univesitario), participé de algunas investigaciones en el área de la Didáctica de la Matemática. En las páginas [Docencia](/teaching/) e [Investigación](/research/) pueden encontrar más información sobre mis respectivos trabajos.
