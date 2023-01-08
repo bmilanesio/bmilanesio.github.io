@@ -14,8 +14,8 @@ Particularmente, en el año 2020, debido a la crisis sanitaria por Covid-19, imp
 
 ### Nivel Universitario
 
-Desde el año 2020 hasta el año 2022 trabajé como `Asistente Docente` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñé como docente en dos asignaturas:
-  - Introducción al Álgebra (1946)
-  - Lógica Matemática Elemental (1934)
+Desde el año 2020 hasta el año 2022 trabajé como `Asistente Docente` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñé como docente en las siguientes asignaturas:
+  - [Introducción al Álgebra](https://sisinfo.unrc.edu.ar/repositorio/sial/programas/facu2/2_2021_1946_2115710.pdf)
+  - [Lógica Matemática Elemental](https://sisinfo.unrc.edu.ar/repositorio/sial/programas/facu2/2_2018_1934_1115710.pdf)
 
  En mi [CV](/assets/pdf/bmilanesio-cv-es.pdf) se puede encontrar más información.
