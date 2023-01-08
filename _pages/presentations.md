@@ -11,7 +11,7 @@ nav_order: 3
 `VII Jornadas de Educación Matemática`, Universidad Nacional del Litoral - Febrero, 2021.\
 [Link](https://www.fhuc.unl.edu.ar/institucional/wp-content/uploads/sites/3/2018/08/Ebook-Actas-Jornadas-Matem%C3%A1tica-2021.pdf) (ver página 334)
 
-**La validación de propiedades en los últimos años de la escuela secundaria: Un análisis ontosemiótico**\
+**La validación de propiedades en los últimos años de la escuela secundaria: un análisis ontosemiótico**\
 `VirtUMA 2020` - Septiembre, 2020.\
 [Evento](https://virtuma2020.com.ar) - [Presentación](https://www.youtube.com/watch?v=JLW7khUUDqg&feature=youtu.be&ab_channel=BettinaMilanesio)
 
@@ -24,5 +24,5 @@ nav_order: 3
 `SUMA 2019` - Septiembre, 2019.\
 [Evento](http://www.union-matematica.org.ar/suma2019/suma2019.html) - [Presentación](http://www.union-matematica.org.ar/suma2019/abstract_ed_2.html#29/07/2019%2010:13:54)
 
-**Un proceso formativo para la investigación: Análisis de niveles de algebrización en un proceso de estudio sobre divisibilidad**\
-`Encuentro Regional de la Unión Matemática Argentina - ERUMA 2019`, Universidad Nacional de Santiago del Estero - Mayo, 2019.\
+**Un proceso formativo para la investigación: análisis de niveles de algebrización en un proceso de estudio sobre divisibilidad**\
+`Encuentro Regional de la Unión Matemática Argentina - ERUMA 2019`, Universidad Nacional de Santiago del Estero - Mayo, 2019.
