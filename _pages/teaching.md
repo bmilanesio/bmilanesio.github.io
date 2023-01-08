@@ -18,4 +18,4 @@ Desde el año 2020 hasta el año 2022 trabajé como `Asistente Docente` en el [D
   - Introducción al Álgebra (1946)
   - Lógica Matemática Elemental (1934)
 
- En mi [CV](/assets/pdf/bmilanesio-cv-es.pdf/) se puede encontrar más información.
+ En mi [CV](/assets/pdf/bmilanesio-cv-es.pdf) se puede encontrar más información.
