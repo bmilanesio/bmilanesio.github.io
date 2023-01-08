@@ -9,8 +9,8 @@ nav_order: 1
 
 ### Nivel Medio
 
-Desde el año 2018 me desempeñé como `Profesora de Matemática` en diferentes colegios secundarios en la región de Río Cuarto, Argentina. En todas las ocasiones conté con la oportunidad de dar clases desde 1ero hasta 6to año.
-Particularmente, en el año 2020, debido a la crisis sanitaria por Covid-19, impartí algunas explicaciones de manera virtual. En mi [canal](https://www.youtube.com/channel/UCNGtxd7tVpHwkB8xwH5xz4w) de YouTube pueden ver algunas de ellas.
+Desde el año 2018 me desempeñé como `Profesora de Matemática` en colegios secundarios de la región de Río Cuarto, Argentina, dictando clases desde 1ero hasta 6to año.
+Particularmente, en el año 2020, debido a la crisis sanitaria por Covid-19, impartí algunas explicaciones de manera virtual. Desde mi [canal](https://www.youtube.com/channel/UCNGtxd7tVpHwkB8xwH5xz4w) de YouTube pueden acceder a algunas de ellas.
 
 ### Nivel Universitario
 
