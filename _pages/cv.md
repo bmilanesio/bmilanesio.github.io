@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://bmilanesio.github.io/assets/pdf/bmilanesio-cv-es.pdf
+permalink: assets/pdf/bmilanesio-cv-es.pdf
 title: CV
 description: 
 nav: true
