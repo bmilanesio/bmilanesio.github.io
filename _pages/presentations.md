@@ -10,12 +10,12 @@ nav_order: 3
 **Significados pragmáticos de la demostración matemática en estudiantes universitarios**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Burgos, María; Markiewicz, María Elena.\
-[Link]()
+[Link](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver página 371)
 
 **La complejidad semiótica de una demostración por inducción matemática**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Markiewicz, María Elena.\
-[Link]()
+[Link](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver página 363)
 
 **Un espacio de estudio de herramientas de análisis didáctico-matemático para contribuir a la formación del profesor**\
 `VII Jornadas de Educación Matemática`, Universidad Nacional del Litoral, Argentina - Febrero, 2021.\
