@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentaciones
-permalink: /presentations/
+title: Publicaciones
+permalink: /publications/
 description: Presentaciones en congresos/eventos.
 nav: true
 nav_order: 3
