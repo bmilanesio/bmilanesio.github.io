@@ -17,6 +17,11 @@ Milanesio, Bettina; Burgos, María; Markiewicz, María Elena.\
 Milanesio, Bettina; Markiewicz, María Elena.\
 [Link](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver página 363)
 
+**Análisis ontosemiótico de procesos de validación en estudiantes del último año de la escuela secundaria**\
+`Revista Iberoamericana de Educación Matemática`, Julio, 2021.\
+Markiewicz, María Elena; Etchegaray, Silvia; Milanesio, Bettina\
+[Link](https://union.fespm.es/index.php/UNION/article/view/232/159) 
+
 **Un espacio de estudio de herramientas de análisis didáctico-matemático para contribuir a la formación del profesor**\
 `VII Jornadas de Educación Matemática`, Universidad Nacional del Litoral, Argentina - Febrero, 2021.\
 Markiewicz, María Elena; Milanesio, Bettina; Etchegaray, Silvia.\
