@@ -2,7 +2,7 @@
 layout: page
 title: Publicaciones
 permalink: /publications/
-description: Presentaciones en congresos y revistas de Educación Matemática.
+description: Publicaciones en congresos y revistas de Educación Matemática.
 nav: true
 nav_order: 3
 ---
