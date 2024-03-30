@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**How do students demonstrate elementary arithmetic properties at the beginning of their university studies?**\
+`18th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2024.\
+Burgos, María; Milanesio, Bettina; Nicolás Tizón-Escamilla\
+[Link](https://library.iated.org/view/BURGOS2024HOW)
+
 **Significados pragmáticos de la demostración matemática en estudiantes universitarios**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Burgos, María; Markiewicz, María Elena.\
