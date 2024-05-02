@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**La complejidad ontosemiótica de demostraciones matemáticas que se proponen en la entrada a la universidad**\
+`Revista de Educación Matemática`, Mayo, 2024.\
+Milanesio, Bettina; Markiewicz, María Elena.\
+[Link](https://revistas.unc.edu.ar/index.php/REM/article/view/44897) 
+
 **How do students demonstrate elementary arithmetic properties at the beginning of their university studies?**\
 `18th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2024.\
 Burgos, María; Milanesio, Bettina; Nicolás Tizón-Escamilla\
