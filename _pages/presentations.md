@@ -55,4 +55,5 @@ Markiewicz, María Elena; Milanesio, Bettina.\
 
 **Un proceso formativo para la investigación: análisis de niveles de algebrización en un proceso de estudio sobre divisibilidad**\
 `Encuentro Regional de la Unión Matemática Argentina - ERUMA 2019`, Universidad Nacional de Santiago del Estero, Argentina - Mayo, 2019.\
-Markiewicz, María Elena; Milanesio, Bettina; Etchegaray, Silvia.
+Markiewicz, María Elena; Milanesio, Bettina; Etchegaray, Silvia.\
+[Presentación](https://bmilanesio.github.io/assets/pdf/PowerEruma.pdf)
