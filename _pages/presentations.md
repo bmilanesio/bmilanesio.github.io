@@ -15,27 +15,27 @@ Milanesio, Bettina; Markiewicz, María Elena.\
 **Cómo demuestran estudiantes universitarios propiedades de conjuntos**\
 `XVII Congreso Internacional de Educación e Innovación`, Santiago, Chile - Abril, 2024.\
 Milanesio, Bettina; Burgos María; Tizón-Escamilla, Nicolás\
-[Evento](https://www.ciei2024.com/)
+[Evento](https://www.ciei2024.com/) - 
 [Presentación](https://youtu.be/wbloGCesIDs)
 
 **How do students demonstrate elementary arithmetic properties at the beginning of their university studies?**\
 `18th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2024.\
 Burgos, María; Milanesio, Bettina; Tizón-Escamilla, Nicolás\
-[Evento](https://iated.org/inted/)
+[Evento](https://iated.org/inted/) - 
 [Publicación](https://library.iated.org/view/BURGOS2024HOW)
 
 **Significados pragmáticos de la demostración matemática en estudiantes universitarios**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Burgos, María; Markiewicz, María Elena.\
-[Evento](https://www.seiem.es/seiem2023/)
-[Publicación](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver páginas 371-378)
+[Evento](https://www.seiem.es/seiem2023/) - 
+[Publicación](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver páginas 371-378) - 
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2023_2.pdf)
 
 **La complejidad semiótica de una demostración por inducción matemática**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Markiewicz, María Elena.\
-[Evento](https://www.seiem.es/seiem2023/)
-[Publicación](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver páginas 363-370)
+[Evento](https://www.seiem.es/seiem2023/) - 
+[Publicación](https://www.seiem.es/docs/actas/26/ActasXXVISEIEM.pdf) (ver páginas 363-370) - 
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2023_1.pdf)
 
 **Análisis ontosemiótico de procesos de validación en estudiantes del último año de la escuela secundaria**\
@@ -51,7 +51,7 @@ Markiewicz, María Elena; Milanesio, Bettina; Etchegaray, Silvia.\
 **La validación de propiedades en los últimos años de la escuela secundaria: un análisis ontosemiótico**\
 `VirtUMA 2020` - Septiembre, 2020.\
 Milanesio, Bettina; Markiewicz, María Elena.\
-[Evento](https://virtuma2020.com.ar)
+[Evento](https://virtuma2020.com.ar) - 
 [Presentación](https://www.youtube.com/watch?v=JLW7khUUDqg&feature=youtu.be&ab_channel=BettinaMilanesio)
 
 **El estudio de las variables didácticas no resulta suficiente para gestionar la clase ni para garantizar el aprendizaje en los alumnos**\
@@ -63,7 +63,7 @@ Milanesio, Bettina; Buffarini, Flavia.\
 **Algunas consideraciones acerca del problema de la validación en el tránsito de la escuela secundaria a la universidad**\
 `SUMA 2019`, Universidad Nacional de Cuyo, Argentina - Septiembre, 2019.\
 Markiewicz, María Elena; Milanesio, Bettina.\
-[Evento](http://www.union-matematica.org.ar/suma2019/suma2019.html)
+[Evento](http://www.union-matematica.org.ar/suma2019/suma2019.html) - 
 [Publicación](http://www.union-matematica.org.ar/suma2019/abstract_ed_2.html#29/07/2019%2010:13:54)
 
 **Un proceso formativo para la investigación: análisis de niveles de algebrización en un proceso de estudio sobre divisibilidad**\
