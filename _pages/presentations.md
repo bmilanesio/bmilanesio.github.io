@@ -12,6 +12,7 @@ nav_order: 3
 Milanesio, Bettina; Burgos, María\
 [Evento](https://www.seiem.es/seiem2024) - 
 [Publicación](https://www.seiem.es/docs/actas/27/ActasXXVIISEIEM.pdf#page=367)
+[Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2024.pdf)
 
 **La complejidad ontosemiótica de demostraciones matemáticas que se proponen en la entrada a la universidad**\
 `Revista de Educación Matemática`, Mayo, 2024.\
@@ -22,7 +23,7 @@ Milanesio, Bettina; Markiewicz, María Elena.\
 `XVII Congreso Internacional de Educación e Innovación`, Santiago, Chile - Abril, 2024.\
 Milanesio, Bettina; Burgos María; Tizón-Escamilla, Nicolás\
 [Evento](https://www.ciei2024.com/) - 
-[Publicación] (https://dialnet.unirioja.es/servlet/articulo?codigo=9734048)
+[Publicación](https://dialnet.unirioja.es/servlet/articulo?codigo=9734048)
 [Presentación](https://youtu.be/wbloGCesIDs)
 
 **How do students demonstrate elementary arithmetic properties at the beginning of their university studies?**\
