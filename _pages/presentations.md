@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 **Significados personales sobre la demostración matemática de estudiantes al inicio de la educación superior**\
-`Revista de Educación Matemática`, Diciembre, 2024.\
+`Revista de Educación Matemática (México)`, Diciembre, 2024.\
 Milanesio, Bettina; Burgos, María.\
 [Publicacion](https://revista-educacion-matematica.org.mx/descargas/Vol36/3/08_REM_36-3.pdf) 
 
@@ -20,9 +20,9 @@ Milanesio, Bettina; Burgos, María\
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2024.pdf)
 
 **La complejidad ontosemiótica de demostraciones matemáticas que se proponen en la entrada a la universidad**\
-`Revista de Educación Matemática`, Mayo, 2024.\
+`Revista de Educación Matemática (Argentina)`, Mayo, 2024.\
 Milanesio, Bettina; Markiewicz, María Elena.\
-[Publicacion](https://revistas.unc.edu.ar/index.php/REM/article/view/44897) 
+[Publicación](https://revistas.unc.edu.ar/index.php/REM/article/view/44897) 
 
 **Cómo demuestran estudiantes universitarios propiedades de conjuntos**\
 `XVII Congreso Internacional de Educación e Innovación`, Santiago, Chile - Abril, 2024.\
