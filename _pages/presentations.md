@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**Significados personales sobre la demostración matemática de estudiantes al inicio de la educación superior**\
+`Revista de Educación Matemática`, Diciembre, 2024.\
+Milanesio, Bettina; Burgos, María.\
+[Publicacion](https://revista-educacion-matematica.org.mx/descargas/Vol36/3/08_REM_36-3.pdf) 
+
 **El rol de la demostración en la enseñanza de la continuidad en segundo de Bachillerato**\
 `XXVII Simposio SEIEM`, Córdoba, España - Septiembre, 2024.\
 Milanesio, Bettina; Burgos, María\
