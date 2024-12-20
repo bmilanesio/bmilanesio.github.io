@@ -13,9 +13,9 @@ Desde el año 2018 hasta el año 2022 me desempeñé como `Profesora de Matemát
 
 ### Nivel Universitario
 
-Desde el año 2024 hasta la actualidad me encuentro trabajando como `Profesora Sustituta` en el [Departamento de Didáctica de las Ciencias Experimentales, Sociales y Matemáticas](https://www.ucm.es/departamento-de-didactica-de-las-ciencias-experimentales,-ciencias-sociales-y-matematicas) de la [Universidad Complutense de Madrid](https://www.ucm.es/).
+Desde el año 2024 hasta la actualidad me encuentro trabajando como `Profesora Sustituta` en el [Departamento de Didáctica de las Ciencias Experimentales, Sociales y Matemáticas](https://www.ucm.es/departamento-de-didactica-de-las-ciencias-experimentales,-ciencias-sociales-y-matematicas) de la [Universidad Complutense de Madrid](https://www.ucm.es/). Me desempeño como docente en el doble grado Maestro en Educación Infantil-Pedagogía. 
 
-Desde el año 2020 hasta el año 2022 trabajé como `Profesora de Matemática` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñé como docente en las siguientes asignaturas:
+Desde el año 2020 hasta el año 2022 trabajé como `Profesora` en el [Departamento de Matemática](http://mat.exa.unrc.edu.ar/) de la Universidad Nacional de Rio Cuarto. Principalmente, me desempeñé como docente en las siguientes asignaturas:
   - [Introducción al Álgebra](https://sisinfo.unrc.edu.ar/repositorio/sial/programas/facu2/2_2021_1946_2115710.pdf)
   - [Lógica Matemática Elemental](https://sisinfo.unrc.edu.ar/repositorio/sial/programas/facu2/2_2018_1934_1115710.pdf)
 
