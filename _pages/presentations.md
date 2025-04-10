@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+**Argumentative strategies of university students: remembering arithmetic properties**\
+`19th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2025.\
+Milanesio, Bettina; Burgos, María\
+[Evento](https://iated.org/inted/) - 
+[Publicación](https://doi.org/10.21125/inted.2025.0293)
+
 **Significados personales sobre la demostración matemática de estudiantes al inicio de la educación superior**\
 `Revista de Educación Matemática (México)`, Diciembre, 2024.\
 Milanesio, Bettina; Burgos, María.\
@@ -35,7 +41,7 @@ Milanesio, Bettina; Burgos María; Tizón-Escamilla, Nicolás\
 `18th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2024.\
 Burgos, María; Milanesio, Bettina; Tizón-Escamilla, Nicolás\
 [Evento](https://iated.org/inted/) - 
-[Publicación](https://library.iated.org/view/BURGOS2024HOW)
+[Publicación](https://doi.org/10.21125/inted.2024.0135)
 
 **Significados pragmáticos de la demostración matemática en estudiantes universitarios**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
