@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-**Argumentative strategies of university students: remembering arithmetic properties**\
+**Argumentative strategies of university students: Remembering arithmetic properties**\
 `19th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2025.\
 Milanesio, Bettina; Burgos, María\
 [Evento](https://iated.org/inted/) - 
