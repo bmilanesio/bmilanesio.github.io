@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**Cómo estudiantes universitarios formulan y argumentan identidades algebraicas**\
+`Revista PNA`, Abril, 2025.\
+Milanesio, Bettina; Burgos, María.\
+[Publicacion](https://doi.org/10.30827/pna.v19i3.30473) 
+
 **Argumentative strategies of university students: Remembering arithmetic properties**\
 `19th annual International Technology, Education and Development Conference`, Valencia, España - Marzo, 2025.\
 Milanesio, Bettina; Burgos, María\
