@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**Competencias y dificultades de estudiantes universitarios ante un problema que involucra la conjetura y la demostración**\
+`Revista Contextos Educativos`, Junio, 2025.\
+Milanesio, Bettina; Burgos, María.\
+[Publicacion](https://doi.org/10.18172/con.6463) 
+
 **Cómo estudiantes universitarios formulan y argumentan identidades algebraicas**\
 `Revista PNA`, Abril, 2025.\
 Milanesio, Bettina; Burgos, María.\
