@@ -7,6 +7,18 @@ nav: true
 nav_order: 3
 ---
 
+**Análisis de la demostración mediante dos herramientas: el modelo de Toulmin y la configuración ontosemiótica**\
+`Revista Uniciencia`, Diciembre, 2025.\
+Milanesio, Bettina; Burgos, María.\
+[Publicacion](https://dx.doi.org/10.15359/ru.39-1.7) 
+
+**Argumentación en la formación matemática del profesorado de primaria**\
+`XXVIII Simposio SEIEM`, Melilla, España - Septiembre, 2025.\
+Milanesio, Bettina; Burgos, María; Tizón-Escamilla, Nicolás\
+[Evento](https://www.seiem.es/melilla2025/index.shtml) - 
+[Publicación](https://www.seiem.es/wp-content/uploads/2025/09/Actas_XXVIIISimposio-VDefinitiva-1.pdf#page=335) -
+[Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2025.pdf)
+
 **Competencias y dificultades de estudiantes universitarios ante un problema que involucra la conjetura y la demostración**\
 `Revista Contextos Educativos`, Junio, 2025.\
 Milanesio, Bettina; Burgos, María.\
@@ -32,7 +44,7 @@ Milanesio, Bettina; Burgos, María.\
 `XXVII Simposio SEIEM`, Córdoba, España - Septiembre, 2024.\
 Milanesio, Bettina; Burgos, María\
 [Evento](https://www.seiem.es/seiem2024) - 
-[Publicación](https://www.seiem.es/docs/actas/27/ActasXXVIISEIEM.pdf#page=367) -
+[Publicación](https://www.seiem.es/wp-content/uploads/2025/04/ActasXXVIISEIEM.pdf#page=367) -
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2024.pdf)
 
 **La complejidad ontosemiótica de demostraciones matemáticas que se proponen en la entrada a la universidad**\
@@ -57,14 +69,14 @@ Burgos, María; Milanesio, Bettina; Tizón-Escamilla, Nicolás\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Burgos, María; Markiewicz, María Elena.\
 [Evento](https://www.seiem.es/seiem2023/) - 
-[Publicación](https://seiem.es/docs/actas/26/Comunicaciones/371.pdf) - 
+[Publicación](https://www.seiem.es/2023/04/30/significados-pragmaticos-de-la-demostracion-matematica-en-estudiantes-universitarios/) - 
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2023_2.pdf)
 
 **La complejidad semiótica de una demostración por inducción matemática**\
 `XXVI Simposio SEIEM`, Universidad de La Rioja, España - Septiembre, 2023.\
 Milanesio, Bettina; Markiewicz, María Elena.\
 [Evento](https://www.seiem.es/seiem2023/) - 
-[Publicación](https://seiem.es/docs/actas/26/Comunicaciones/363.pdf) - 
+[Publicación](https://www.seiem.es/2023/04/30/la-complejidad-semiotica-de-una-demostracion-por-induccion-matematica/) - 
 [Presentación](https://bmilanesio.github.io/assets/pdf/Seiem2023_1.pdf)
 
 **Análisis ontosemiótico de procesos de validación en estudiantes del último año de la escuela secundaria**\
