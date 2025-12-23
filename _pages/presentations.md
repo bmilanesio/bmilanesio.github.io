@@ -87,7 +87,7 @@ Markiewicz, María Elena; Etchegaray, Silvia; Milanesio, Bettina\
 **Un espacio de estudio de herramientas de análisis didáctico-matemático para contribuir a la formación del profesor**\
 `VII Jornadas de Educación Matemática`, Universidad Nacional del Litoral, Argentina - Febrero, 2021.\
 Markiewicz, María Elena; Milanesio, Bettina; Etchegaray, Silvia.\
-[Publicación](https://www.fhuc.unl.edu.ar/institucional/wp-content/uploads/sites/3/2018/08/Ebook-Actas-Jornadas-Matem%C3%A1tica-2021.pdf) (ver páginas 334-349)
+[Publicación](https://www.fhuc.unl.edu.ar/institucional/wp-content/uploads/sites/3/2018/08/Ebook-Actas-Jornadas-Matem%C3%A1tica-2021.pdf#page=336)
 
 **La validación de propiedades en los últimos años de la escuela secundaria: un análisis ontosemiótico**\
 `VirtUMA 2020` - Septiembre, 2020.\
