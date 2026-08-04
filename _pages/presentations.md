@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+**Prácticas de conjetura y demostración de docentes de primaria en formación inicial: análisis articulando el modelo de Toulmin con el enfoque ontosemiótico**\
+`Revista Educación Matemática (México)`, Agosto, 2026.\
+Milanesio, Bettina; Burgos, María; Arce, Matías.\
+[Publicacion](https://doi.org/10.24844/EM3802.02) 
+
 **Análisis de la demostración mediante dos herramientas: el modelo de Toulmin y la configuración ontosemiótica**\
 `Revista Uniciencia`, Diciembre, 2025.\
 Milanesio, Bettina; Burgos, María.\
@@ -36,7 +41,7 @@ Milanesio, Bettina; Burgos, María\
 [Publicación](https://doi.org/10.21125/inted.2025.0293)
 
 **Significados personales sobre la demostración matemática de estudiantes al inicio de la educación superior**\
-`Revista de Educación Matemática (México)`, Diciembre, 2024.\
+`Revista Educación Matemática (México)`, Diciembre, 2024.\
 Milanesio, Bettina; Burgos, María.\
 [Publicacion](https://revista-educacion-matematica.org.mx/descargas/Vol36/3/08_REM_36-3.pdf) 
 
